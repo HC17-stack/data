@@ -185,3 +185,9 @@
 {"company": "Casa Chic (La Plata)", "reason": "Owner unnamed in article", "date": "2026-11-15"}
 {"company": "Unionbat (Argentina)", "reason": "Company statement only, no named person", "date": "2026-11-15"}
 {"company": "Cronista/Infobae pyme roundups", "reason": "No named decider", "date": "2026-11-15"}
+{"company": "Mazalosa (Portsaid/Desiderata, Argentina)", "reason": "Duplicate by dedup; iProfesional page has company statement only, no named quoted person", "date": "2026-11-15"}
+{"company": "Gastronomy Market (Colombia)", "reason": "La FM article 2024-07-16 has no named decider quoted; social-media announcement only", "date": "2026-11-15"}
+{"company": "Cece Tekstil (Turkey)", "reason": "Court-ordered bankruptcy; no owner decision or quote", "date": "2026-11-15"}
+{"company": "Fracción (Chile)", "reason": "Blog summary of reorganización judicial; no named person quoted, no stated reason from founder", "date": "2026-11-15"}
+{"company": "Cassbana (Egypt)", "reason": "CEO Haitham Nassar denies shutdown and says new round pending; no closure decision, Launch Base Africa 2024-07-08", "date": "2026-11-15"}
+{"company": "Oulad Zerrad (Morocco)", "reason": "Medias24 returned HTTP 403; dropped per fetch ethics", "date": "2026-11-15"}
