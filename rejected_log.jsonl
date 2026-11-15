@@ -45,3 +45,11 @@
 {"company": "Pandanés", "date": "2026-11-15", "reason": "company WhatsApp message only, no named person quoted"}
 {"company": "Garbarino", "date": "2026-11-15", "reason": "court bankruptcy, no named decider"}
 {"company": "Vasconia", "date": "2026-11-15", "reason": "company BMV statement only, no named person"}
+{"company": "Hispano (Buenos Aires)", "date": "2026-11-15", "reason": "article dated 2019, outside window, no named person"}
+{"company": "Calzados Guante", "date": "2026-11-15", "reason": "company communique only, no named person"}
+{"company": "Orta Anadolu Mensucat", "date": "2026-11-15", "reason": "Ekonomim page 403 blocked"}
+{"company": "Granja Tres Arroyos", "date": "2026-11-15", "reason": "no quoted owner on fetched pages; letrap 403"}
+{"company": "Leval", "date": "2026-11-15", "reason": "no owner quoted, only union delegate"}
+{"company": "Dánica", "date": "2026-11-15", "reason": "no named decider, sign posted by company"}
+{"company": "Rio Cuarto comerciante", "date": "2026-11-15", "reason": "shop owner unnamed"}
+{"company": "Estado de Minas 50 layoffs plant", "date": "2026-11-15", "reason": "decision made abroad, no named person"}
