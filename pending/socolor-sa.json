@@ -1,0 +1,15 @@
+{
+ "company": "Socolor S.A.",
+ "country": "Argentina",
+ "sector": "Manufacturing",
+ "sub_sector": "Sheet-metal parts for white goods and lighting",
+ "size_band": "20+ employees (family SME, founded 2003)",
+ "stage_or_date": "February 2026",
+ "source_url": "https://www.cronista.com/informacion-gral/cerro-un-gigante-metalurgico-tras-20-liderando-el-sector-y-despidio-a-todos-sus-operarios",
+ "source_type": "news",
+ "the_problem": "Socolor S.A., a La Plata metalworks making sheet parts for white-goods and lighting makers, saw sales fall up to 40% from 2024, ran at 30% of capacity in 2025 and only 10% in early 2026.",
+ "the_decision": "Owner Mariano Nicolicchia chose a total halt of activity: \"La decisión del cierre fue el corte total de la actividad. Tomar la decisión fue muy duro y difícil, somos una familia que generó siempre mucho trabajo\". His reason: \"Las ventas comenzaron a bajar de forma exagerada, hasta un 40%, y ya en 2025 producíamos un 30%\", and by early 2026 the plant produced 10% and was \"imposible de soportar\".",
+ "the_outcome": "Plant on calle 526 closed after 22+ years; all workers dismissed (owners had warned over 20 households would lose income); output fell from full capacity to 10%.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-16 via curl --compressed. Page contains Socolor S.A., Mariano Nicolicchia and the verbatim quotes above. Published 25 Feb 2026, after the closure; within 3y of 2026-11-09 (about 9 months before). hdedup output: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (Socolor). Article cites local daily 0221 as origin of the quotes.",
+ "event_fingerprint": "socolor-sa-argentina-closure-2026-02"
+}
