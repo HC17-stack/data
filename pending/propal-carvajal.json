@@ -1,0 +1,15 @@
+{
+ "company": "Propal (Grupo Carvajal)",
+ "country": "Colombia",
+ "sector": "Manufacturing",
+ "sub_sector": "Paper and packaging",
+ "size_band": "550 workers at the Guachené plant; revenue COP 475,830M in 2025",
+ "stage_or_date": "31 July 2026 (judicial liquidation filed); Yumbo plant stopped 11 April 2025",
+ "source_url": "https://www.elpais.com.co/economia/presidente-de-carvajal-habla-del-cierre-de-propal-esta-decision-ha-sido-la-mas-dificil-que-se-ha-tomado-en-la-historia-de-la-organizacion-3113.html",
+ "source_type": "news",
+ "the_problem": "Propal's paper prices were squeezed by global oversupply and imports (including from Brazil), the peso sat at a 7-year strong level, and production costs rose, giving negative margins. Revenue fell 51.3% in 2025 (COP 977,062M to COP 475,830M) and the Yumbo plant had already been stopped in April 2025.",
+ "the_decision": "Pedro Felipe Carvajal, head of Organización Carvajal and chair of Propal's board, led the decision to put Propal into judicial liquidation and close the Guachené plant after exhausting restructuring, efficiency plans, investor search and diversification. He said: \"Esta decisión ha sido la más difícil que se ha tomado en la historia de la Organización\" and that continuing \"sólo aumentaría las pérdidas operativas en detrimento del patrimonio de Propal y de sus acreedores\".",
+ "the_outcome": "Liquidation petition filed with Supersociedades on 31 Jul 2026 (est. 18-24 months); 550 Guachené workers affected; Carvajal lent more than COP 240,000M during the rescue attempt without a viable result.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. El País page dated 31 jul 2026 (updated 3 ago 2026) names Propal and Pedro Felipe Carvajal; La República (HTTP 200, 31 jul 2026) corroborates the filing and the 51.3% revenue fall. Verbatim: \"Esta decisión ha sido la más difícil que se ha tomado en la historia de la Organización. El dolor que sentimos es enorme, pero esta decisión era necesaria para proteger precisamente a los colaboradores\" and \"La Organización Carvajal prestó más de $240.000 millones durante este proceso\". Decision 31 Jul 2026, within 3y of 2026-11-09 and article after the event. Dedup: ~/hdedup.sh \"Propal\" -> production matches: 0|pending on feed- branches: 0|rejected_log matches: 0|RESULT: NEW (Propal)|",
+ "event_fingerprint": "propal-carvajal-colombia-liquidacion-judicial-2026-07"
+}
