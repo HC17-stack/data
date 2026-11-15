@@ -1,0 +1,15 @@
+{
+  "company": "Avícola Chequén",
+  "country": "Chile",
+  "sector": "Agriculture",
+  "sub_sector": "Poultry production",
+  "size_band": "~50 employees (after cutting ~100 in 2023)",
+  "stage_or_date": "Feb 2026 (closure announced 2026-02-05)",
+  "source_url": "https://www.df.cl/regiones/biobio/empresas/gripe-aviar-y-crisis-financiera-gatillan-cierre-de-avicola-chequen-en",
+  "source_type": "news_article",
+  "the_problem": "A 2023 avian-flu outbreak forced Avícola Chequén (Florida, Biobío, 68 years old, Crovetto family) to cull about 200,000 birds on SAG order, leaving it with no productive capacity and heavy debt while it waited indefinitely for SAG clearance to repopulate.",
+  "the_decision": "General manager Tomás Mandich Crovetto closed the business in an orderly wind-down of the brand, paying all severance. His reason: 'cuando te encuentras con que debe esperarse indefinidamente hasta recibir el alta del SAG, hay decisiones que no pueden esperar'; restarting 'necesitábamos mínimo $1.000 millones' and neither owners nor banks would fund it without insurance.",
+  "the_outcome": "Operations ended after 68 years, about 50 workers lost their jobs (about 100 had already been cut in the 2023 adjustment); finiquitos paid in full; it was not a legal bankruptcy. The Agriculture minister disputed his account of SAG delays.",
+  "confidence_note": "Fetched 2026-11-15, HTTP 200, article dated 5 Feb 2026 (DF, Carolina Vilches S.); event Feb 2026 is within 3 years of 2026-11-09 and the article follows the event. Verbatim from page: 'hito que según su gerente general, Tomás Mandich Crovetto, nunca se concretó. \"Las decisiones que hubo que tomar postgripe aviar fueron muy duras empresarial y emocionalmente... cuando te encuentras con que debe esperarse indefinidamente hasta recibir el alta del SAG, hay decisiones que no pueden esperar\"' and '\"Para partir de nuevo necesitábamos mínimo $ 1.000 millones\", explicó el gerente'. Dedup: ~/hdedup.sh \"Avícola Chequén\" -> production matches: 0 pending on feed- branches: 0 rejected_log matches: 0 RESULT: NEW (Avícola Chequén) ",
+  "event_fingerprint": "avicola-chequen-chile-closure-2026-02"
+}
