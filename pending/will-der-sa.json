@@ -1,0 +1,15 @@
+{
+ "company": "Will Der SA",
+ "country": "Argentina",
+ "sector": "Manufacturing",
+ "sub_sector": "Sportswear/textile contract manufacturing",
+ "size_band": "280+ employees at peak, ~120 laid off at closure",
+ "stage_or_date": "August 2026",
+ "source_url": "https://eleconomista.com.ar/economia/el-duro-mensaje-ex-dt-pumas-tras-cerrar-su-fabrica-anunciar-120-despidos-ahora-hay-laburo-nos-hundieron-n97463",
+ "source_type": "news",
+ "the_problem": "Will Der SA, maker of apparel for Adidas, Puma, Lacoste, Fila and others, saw orders collapse amid an Argentine textile slump (sector output -25.6% y/y in May, plants at 42.2% capacity), with 11 bounced cheques worth ARS 24.69M unregularised.",
+ "the_decision": "Partners closed the General Pacheco and Las Flores plants and dismissed 120 workers. President Santiago Phelan told staff: \"estamos en agosto y ahora no hay laburo\" after failing to find substitute work, and partner Armando Anasal blamed policy: \"la política nos hundió\".",
+ "the_outcome": "Two plants closed, 120 jobs lost, headcount down to roughly a third of the earlier ~370 (300 Buenos Aires + 70 Catamarca); severance uncertain (Phelan: \"se va a pagar lo que se puede pagar, puede ser todo o puede ser nada\").",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Page names Will Der SA, Santiago Phelan, Armando Anasal. Verbatim: \"Los planes de trabajo desaparecieron, fui a buscar empresas de minería, de otros rubros para hacer mamelucos\"; \"estamos en agosto y ahora no hay laburo\"; \"la política nos hundió\". Article dated 18 agosto de 2026, after the closure; within 3y of 2026-11-09 (about 3 months). hdedup: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (Will Der) ; also ~/hdedup.sh Anasal -> RESULT: NEW.",
+ "event_fingerprint": "will-der-sa-argentina-plant-closure-2026-08"
+}
