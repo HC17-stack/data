@@ -1,0 +1,15 @@
+{
+ "company": "Grupo Becker (JA Calçados / VS Sport)",
+ "country": "Brazil",
+ "sector": "Manufacturing",
+ "sub_sector": "Footwear contract manufacturing",
+ "size_band": "900+ employees dismissed across six plants",
+ "stage_or_date": "June-July 2026",
+ "source_url": "https://www.opovo.com.br/noticias/economia/2026/07/30/amp/fabrica-de-calcados-fecha-em-brejo-santo-e-demite-89-pessoas.html",
+ "source_type": "news",
+ "the_problem": "Footwear maker Grupo Becker, owned by Alexandre Becker, fell into severe financial difficulty after the pandemic and after losing work from client Paquetá Calçados, and was behind on FGTS contributions for four years per former workers.",
+ "the_decision": "Alexandre Becker closed four Pentecoste (CE) plants on 24 June 2026 saying \"Chegou um momento em que a gente está passando por uma dificuldade econômica muito grande. Essa dificuldade impossibilita a gente de continuar\"; he promised to keep VS Sport open but it shut too, and the JA Calçados plant in Brejo Santo closed in late July.",
+ "the_outcome": "Six plants closed in 35 days; 5 Pentecoste plants cut 830+ jobs (23 Jun-22 Jul) plus 89 dismissed at Brejo Santo; unions won a court asset-freeze order over unpaid severance.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Page names Grupo Becker, Alexandre Becker and JA Calçados. Verbatim: \"Quando fechou as quatro primeiras unidades em Pentecoste, em 24 de junho, o empresário Alexandre Becker alegou que a situação financeira das indústrias se agravou após a pandemia de Covid-19.\" and \"Chegou um momento em que a gente está passando por uma dificuldade econômica muito grande. Essa dificuldade impossibilita a gente de continuar\", disse. Decision 24 Jun 2026, article 30 Jul 2026, after the event and within 3y of 2026-11-09. Becker later declined further comment via his wife (health). hdedup: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (Grupo Becker) ; also JA Calçados, Alexandre Becker, Pentecoste -> RESULT: NEW (bare 'Becker' was a DUPLICATE hit on unrelated text).",
+ "event_fingerprint": "grupo-becker-ja-calcados-ceara-plant-closures-2026-06"
+}
