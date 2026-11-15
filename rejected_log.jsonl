@@ -165,3 +165,7 @@
 {"company": "TenureX", "reason": "Calcalist 06.02.23: closure Feb 2023, before the 2023-11-09 window", "date": "2026-11-16"}
 {"company": "Shakespeare and Co (UAE)", "reason": "Gulf News coverage of 35-branch closure: no owner/founder explanation quoted; only an unrelated commenter", "date": "2026-11-16"}
 {"company": "Record (Peru)", "reason": "Peru Retail 2026-01-31: manager Eduardo Varela already in production (2 matches); only paraphrase, no quote or measurable figure", "date": "2026-11-16"}
+{"company": "Fernando Mayer (Chile)", "reason": "DF article is dated 2025-07 (event 2025-06-25, outside 3y fine but) quotes only a court filing, no named person", "date": "2026-11-15"}
+{"company": "Edyce (Chile)", "reason": "BioBio 2026-07-24: only company statements, no named person quoted", "date": "2026-11-15"}
+{"company": "Landa Digital Printing (Israel)", "reason": "Globes dated 2025-06-12 (outside window not an issue but) company statement only, no named decider quoted", "date": "2026-11-15"}
+{"company": "Grubshack / Tandoor Tina / Chokhi Dhani (UAE)", "reason": "dedup DUPLICATE; Gulf News/Khaleej pages returned 403, dropped", "date": "2026-11-15"}
