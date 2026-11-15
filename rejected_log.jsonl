@@ -7,3 +7,5 @@
 {"company": "BeyondMinds", "date": "2026-11-15", "reason": "event dated May 2022, outside window"}
 {"company": "Al Habtoor Lebanon", "date": "2026-11-15", "reason": "403 on fetch"}
 {"company": "Cyberbit", "date": "2026-11-15", "reason": "fetched page was a different article"}
+{"company":"Silkhaus","date":"2026-11-15","reason":"company LinkedIn statement only, no named person quoted"}
+{"company":"Panpack","date":"2026-11-15","reason":"no owner quote found in coverage"}
