@@ -1,0 +1,15 @@
+{
+ "company": "Distribuidora de Licores El Cielo",
+ "country": "Chile",
+ "sector": "Retail & Distribution",
+ "sub_sector": "Liquor wholesale/distribution",
+ "size_band": "~100 employees at peak, CLP 9,000M annual sales at peak",
+ "stage_or_date": "March 2024 (forced liquidation and auction of the business)",
+ "source_url": "https://www.cnnchile.com/pais/distribuidora-licores-el-cielo-remate/",
+ "source_type": "news",
+ "the_problem": "After the Municipality of Santiago forced owner Pablo Villalba to regularise his property lease in 2014 and shut the premises in 2015-16 (in December, 'el mejor del año'), the business was hit by the 2019 social unrest (looting, damage) and then COVID-19. Debts built up until creditors forced the company into liquidation.",
+ "the_decision": "Pablo Villalba, who took over the 64-year-old distributor in 2002, kept the business running through nine years of decline, including a delivery-only model, instead of exiting. He told Las Últimas Noticias: \"quise seguir, pagar mis deudas, no pude sacarme esta mala racha\"; on the delivery pivot: \"Mis ingresos eran de dos millones y medio mensuales con el delivery y pagaba de arriendo dos millones. Era insostenible\".",
+ "the_outcome": "Company forced into liquidation by creditors and its assets put up for auction; peak ~100 staff and >CLP 9,000M yearly sales fell to CLP 2.5M monthly delivery income against CLP 2M rent; 64 years of operation ended.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Page JSON-LD datePublished 2024-03-07 (modified 2026-04-08); decision/liquidation early 2024, within 3y of 2026-11-09 and article dated after event. Page names Distribuidora El Cielo and Pablo Villalba. Verbatim: \"Se va a cerrar un capítulo de nueve años en que se nos vino abajo el negocio, y pese a que quise seguir, pagar mis deudas, no pude sacarme esta mala racha\" and \"Mis ingresos eran de dos millones y medio mensuales con el delivery y pagaba de arriendo dos millones. Era insostenible\". Caveat: closure was creditor-forced liquidation; Villalba's decision credited is the choice to keep operating through the decline. Dedup: ~/hdedup.sh \"Licores El Cielo\" -> production matches: 0|pending on feed- branches: 0|rejected_log matches: 0|RESULT: NEW (Licores El Cielo)|",
+ "event_fingerprint": "licores-el-cielo-chile-liquidacion-forzosa-2024-03"
+}
