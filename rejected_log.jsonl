@@ -56,3 +56,10 @@
 {"company": "Carrizales bicycle seat factory (Rogelio Bella)", "date": "2026-11-16", "reason": "elancasti 403 blocked"}
 {"company": "Le Blé (Be Larch SA)", "date": "2026-11-16", "reason": "company declined comment, no named person quoted"}
 {"company": "Will Der (re-surfaced)", "date": "2026-11-16", "reason": "already in pending"}
+{"company": "Tía Maruca", "country": "Argentina", "date": "2026-11-15", "reason": "El Cronista 2026-05-16: no named decider, generic content-farm text"}
+{"company": "Master Choco Gıda", "country": "Turkey", "date": "2026-11-15", "reason": "GZT: court bankruptcy report, no named decider or quote"}
+{"company": "Gomas Gaspar", "country": "Argentina", "date": "2026-11-15", "reason": "Infobae 2026-05-04: owner Rodolfo Polero only described by union delegate, not quoted; no own reason"}
+{"company": "La Paila", "country": "Argentina", "date": "2026-11-15", "reason": "La Voz de San Justo 2026-02-18: unsigned family statement, no named person"}
+{"company": "Yogome", "country": "Mexico", "date": "2026-11-15", "reason": "Forbes México article dated 2018-10-05, event outside 3-year window"}
+{"company": "Textilcom", "country": "Argentina", "date": "2026-11-15", "reason": "El Ancasti 403/JS challenge, dropped"}
+{"company": "Chokhi Dhani Dubai", "country": "UAE", "date": "2026-11-15", "reason": "Khaleej Times 403, dropped"}
