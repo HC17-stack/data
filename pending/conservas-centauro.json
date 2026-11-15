@@ -1,0 +1,15 @@
+{
+ "company": "Conservas Centauro (Conservas Chile)",
+ "country": "Chile",
+ "sector": "Food manufacturing",
+ "sub_sector": "Canned vegetables and tomato paste",
+ "size_band": "110 employees; 118 years old",
+ "stage_or_date": "Forced-liquidation suit Nov 2025; declared bankrupt 5 Feb 2026",
+ "source_url": "https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2026/02/06/empresa-de-conservas-con-mas-de-110-anos-de-historia-enfrenta-quiebra-y-apunta-a-la-competencia-china.shtml",
+ "source_type": "news",
+ "the_problem": "Cheap Chinese competition collapsed the Chilean canning market per family representative Mario Consigliere; a creditor (Termodinámica Ingeniería y Servicios Industriales, owed over CLP 251 million) filed a forced-liquidation suit in Nov 2025, and the company was declared bankrupt with CLP 2,343 million owed to creditors (Banco Consorcio CLP 994 million).",
+ "the_decision": "Mario Consigliere, representing the family that co-controls the company with the Bozzo family, told Pulso the firm would not shut down but would seek a reorganization process, telling its 110 staff about the situation, and would look to expand export markets, especially Asia. He blamed China: \"La competencia de China es desastrosa y destruyó el mercado de los conserveros en Chile\".",
+ "the_outcome": "Declared bankrupt after 118 years with CLP 2,343 million in creditor commitments; 110 workers exposed; outcome of the reorganization attempt not yet known at publication.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Page names Conservas Centauro and Mario Consigliere. Verbatim: \"“La competencia de China es desastrosa y destruyó el mercado de los conserveros en Chile”, dijo a Pulso el representante de la familia Consigliere, Mario Consigliere\" and \"“Se le comentó a las 110 personas que trabajan con nosotros esta situación, pero no queremos cerrar y estamos trabajando para llevar adelante un proceso de reorganización”, confesó al citado medio.\" LIMITATION: Consigliere is a family representative; the decision (reorganize rather than close) is a response to a court-ordered liquidation, and the outcome is open. Dates: suit Nov 2025, bankruptcy 5 Feb 2026, article 6 Feb 2026 (after the event, within 3 years of 2026-11-09). Dedup: ~/hdedup.sh \"Centauro\" -> production matches: 0 / pending on feed- branches: 0 / rejected_log matches: 0 / RESULT: NEW (Centauro).",
+ "event_fingerprint": "conservas-centauro-chile-quiebra-reorganizacion-2026-02"
+}
