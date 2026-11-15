@@ -127,3 +127,11 @@
 {"company": "Sueño Fueguino (Danubio)", "reason": "only the company lawyer quoted, owner Bogiatzian not quoted", "date": "2026-11-16"}
 {"company": "Hilandería Fueguina", "reason": "no owner quote found", "date": "2026-11-16"}
 {"company": "Arfa Ambalaj", "reason": "court-declared bankruptcy, no named decider", "date": "2026-11-16"}
+{"company": "Industrias del Fuego", "reason": "source page 403, dropped", "date": "2026-11-15"}
+{"company": "Frigorífico Casa Blanca (Black Bamboo)", "reason": "company statement only, no named decider", "date": "2026-11-15"}
+{"company": "Linor SRL", "reason": "court-driven bankruptcy, no owner quote; c5n 403", "date": "2026-11-15"}
+{"company": "Shgardi", "reason": "company statement only, no named founder quote", "date": "2026-11-15"}
+{"company": "Marabraz", "reason": "court petition only, no named person quoted; one source 403", "date": "2026-11-15"}
+{"company": "RoomVa", "reason": "event 2018, outside 3-year window", "date": "2026-11-15"}
+{"company": "Sidel Egypt", "reason": "event 2017, outside 3-year window", "date": "2026-11-15"}
+{"company": "B Laban", "reason": "regulator-ordered closure (NFSA), not a founder decision", "date": "2026-11-15"}
