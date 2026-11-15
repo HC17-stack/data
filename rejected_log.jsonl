@@ -169,3 +169,4 @@
 {"company": "Edyce (Chile)", "reason": "BioBio 2026-07-24: only company statements, no named person quoted", "date": "2026-11-15"}
 {"company": "Landa Digital Printing (Israel)", "reason": "Globes dated 2025-06-12 (outside window not an issue but) company statement only, no named decider quoted", "date": "2026-11-15"}
 {"company": "Grubshack / Tandoor Tina / Chokhi Dhani (UAE)", "reason": "dedup DUPLICATE; Gulf News/Khaleej pages returned 403, dropped", "date": "2026-11-15"}
+{"company": "Tok&Stok (Brazil)", "reason": "Exame 2026 page: store-closure/liquidation notice with no named executive quoted", "date": "2026-11-15"}
