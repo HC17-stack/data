@@ -1,0 +1,15 @@
+{
+ "company": "StoreDot",
+ "country": "Israel",
+ "sector": "Technology",
+ "sub_sector": "EV fast-charging battery technology (licensing)",
+ "size_band": "most staff laid off Jan 2026, a few dozen remain; ~USD 200M raised",
+ "stage_or_date": "February 2026 (SPAC merger cancelled 19 Feb 2026)",
+ "source_url": "https://www.calcalistech.com/ctechnews/article/eq035onah",
+ "source_type": "news",
+ "the_problem": "StoreDot failed to complete a planned private fundraising round of USD 30-50 million that its USD 800M SPAC merger with Andretti Acquisition Corp. II required as a minimum cash injection; institutional investors did not commit and SPAC redemptions were expected to be high, which would have left too little cash after listing. It had raised about USD 200M and was valued at USD 1.5B in its 2022 Series D.",
+ "the_decision": "CEO and co-founder Doron Myersdorf and Andretti mutually cancelled the USD 800M SPAC deal rather than list with insufficient cash. Myersdorf told Calcalist the company would now raise \"several tens of millions of dollars\" independently, blaming global automotive uncertainty for tightening financing, and said he believes StoreDot can raise it and avoid liquidation. About a month earlier the company had laid off most of its employees.",
+ "the_outcome": "USD 800M SPAC deal collapsed (19 Feb 2026, planned Q2 2026 close); Herzliya headcount cut to a few dozen; company in a cash crunch with liquidation risk, down from a USD 1.5B 2022 valuation.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Calcalist Ctech article by Meir Orbach dated 09:27, 19.02.26 names StoreDot and Doron Myersdorf. Verbatim sentences: \"StoreDot CEO and co-founder Doron Myersdorf told Calcalist that the company is now raising capital independently, aiming to secure several tens of millions of dollars to continue operations.\" and \"According to Myersdorf, uncertainty in the global automotive industry has tightened financial conditions across the sector and contributed to the difficulty in completing the SPAC-related fundraising.\" Also \"About a month ago, StoreDot ... laid off most of its employees and now retains only a few dozen staff members.\" Article after event; decision 19 Feb 2026 within 3y of 2026-11-09. Caveat: Myersdorf's words are reported speech, not a direct quote. Dedup: ~/hdedup.sh \"StoreDot\" -> production matches: 0|pending on feed- branches: 0|rejected_log matches: 0|RESULT: NEW (StoreDot)|",
+ "event_fingerprint": "storedot-israel-spac-collapse-2026-02"
+}
