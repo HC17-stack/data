@@ -144,3 +144,8 @@
 {"company": "Taramah", "reason": "kibbutz statement, no named person", "date": "2026-11-15"}
 {"company": "Of Tov", "reason": "article May 2024 with no quoted decider", "date": "2026-11-15"}
 {"company": "Sprii", "reason": "event 2019-2020, outside 3-year window", "date": "2026-11-15"}
+{"company": "Lec Lee", "reason": "Noticias RCN May 2026 article has no named decider or quote", "date": "2026-11-15"}
+{"company": "Compañía Universal Textil", "reason": "Polystel article dated April 2019, outside window", "date": "2026-11-15"}
+{"company": "Terrafertil", "reason": "Primicias Jul 2026: only Nestle company statement, no named person", "date": "2026-11-15"}
+{"company": "Pri HaGalil", "reason": "FreshPlaza Nov 2026: owners unnamed, no quoted decider", "date": "2026-11-15"}
+{"company": "Evlox", "reason": "medias24 page 403 Cloudflare, dropped", "date": "2026-11-15"}
