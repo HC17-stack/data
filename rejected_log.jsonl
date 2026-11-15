@@ -78,3 +78,6 @@
 {"company": "Intradevco (Alicorp Ventanilla plant)", "country": "Peru", "date": "2026-11-15", "reason": "company statement only, no named person; article March 2025"}
 {"company": "Fábricas Nacionales de Cerveza (FNC)", "country": "Uruguay", "date": "2026-11-15", "reason": "El Observador and MercoPress pages returned 403; dropped without retry"}
 {"company": "SER Mekatronik", "country": "Turkey", "date": "2026-11-15", "reason": "evrensel.net page returned 403 (Cloudflare); dropped without retry"}
+{"company": "Unifood (Pollo Stop, Pedro Juan & Diego)", "country": "Chile", "date": "2026-11-15", "reason": "24horas page has only company statements, no named person"}
+{"company": "Calzados Q'Guay", "country": "Chile", "date": "2026-11-15", "reason": "owner Zaúl Méndez named with reason but no measurable figure; also reopened"}
+{"company": "Believer Meats", "country": "Israel", "date": "2026-11-15", "reason": "10 production matches for 'Believer'; page quotes only an HR head's post, decision not credited to a named decider"}
