@@ -9,3 +9,17 @@
 {"company": "Cyberbit", "date": "2026-11-15", "reason": "fetched page was a different article"}
 {"company":"Silkhaus","date":"2026-11-15","reason":"company LinkedIn statement only, no named person quoted"}
 {"company":"Panpack","date":"2026-11-15","reason":"no owner quote found in coverage"}
+{"company": "Magnera", "date": "2026-11-15", "reason": "elancasti page 403 blocked"}
+{"company": "CAMSA", "date": "2026-11-15", "reason": "only company court filing, no named person quoted"}
+{"company": "Anforama", "date": "2026-11-15", "reason": "no named person quoted, no owner reason"}
+{"company": "Justo & Bueno", "date": "2026-11-15", "reason": "Portafolio article dated 2022, outside 3-year window"}
+{"company": "Chef Metalero", "date": "2026-11-15", "reason": "owner named only by handle, no reason stated for closure"}
+{"company": "Moreish", "date": "2026-11-15", "reason": "Khaleej Times page 403 blocked"}
+{"company": "Liguria", "date": "2026-11-15", "reason": "Ex-Ante page 403 blocked"}
+{"company": "Senpres", "date": "2026-11-15", "reason": "Evrensel page 403 blocked, no owner statement"}
+{"company": "Examedi", "date": "2026-11-15", "reason": "aggregator rewrite, no quoted person"}
+{"company": "IFFCO", "date": "2026-11-15", "reason": "Khaleej Times page 403 blocked"}
+{"company": "Hamburgini", "date": "2026-11-15", "reason": "Gulf News page 403 blocked"}
+{"company": "Grubshack", "date": "2026-11-15", "reason": "Gulf News 403 (also dedup duplicate)"}
+{"company": "Cocot", "date": "2026-11-15", "reason": "worker complaints only, no named decider"}
+{"company": "Mazalosa", "date": "2026-11-15", "reason": "no named decider quoted"}
