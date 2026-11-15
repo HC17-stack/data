@@ -113,3 +113,13 @@
 {"company": "Kabzımal", "reason": "ntv page HTTP 403, dropped", "date": "2026-11-15"}
 {"company": "Belgroup", "reason": "no source fetched; liquidation by creditor-agreement breach, no named decider found", "date": "2026-11-15"}
 {"company": "Corporación Miyasato", "reason": "liquidation April 2023, before 2023-11-09 cutoff; no named decider", "date": "2026-11-15"}
+{"company": "Şenpres", "reason": "403 on evrensel.net; dropped", "date": "2026-11-15"}
+{"company": "Muebles Sur", "reason": "403 on ex-ante.cl; dropped", "date": "2026-11-15"}
+{"company": "Colsubsidio", "reason": "Infobae page 200 but the decision quote is attributed to the company, not Arango; Nov 2024 closure", "date": "2026-11-15"}
+{"company": "Milfit", "reason": "no owner quote found; only enforcement/seizure report", "date": "2026-11-15"}
+{"company": "Carrousel", "reason": "fetched 200 but owners unnamed", "date": "2026-11-15"}
+{"company": "Sandsoft", "reason": "sources-only story, no named decider, Oct 2025", "date": "2026-11-15"}
+{"company": "Sorvelândia", "reason": "no founder quote; still operating", "date": "2026-11-15"}
+{"company": "XM Cyber", "reason": "fetched 200 but no named person quoted; acquisition-driven layoffs", "date": "2026-11-15"}
+{"company": "Dufour", "reason": "same event as Cocot (already rejected)", "date": "2026-11-15"}
+{"company": "Pudding Media", "reason": "old story, not within 3y window", "date": "2026-11-15"}
