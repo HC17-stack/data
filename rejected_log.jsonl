@@ -123,3 +123,7 @@
 {"company": "XM Cyber", "reason": "fetched 200 but no named person quoted; acquisition-driven layoffs", "date": "2026-11-15"}
 {"company": "Dufour", "reason": "same event as Cocot (already rejected)", "date": "2026-11-15"}
 {"company": "Pudding Media", "reason": "old story, not within 3y window", "date": "2026-11-15"}
+{"company": "KartNGo", "reason": "Mubasher page 200 but no named decider and no reason beyond 'circumstances beyond control'", "date": "2026-11-16"}
+{"company": "Sueño Fueguino (Danubio)", "reason": "only the company lawyer quoted, owner Bogiatzian not quoted", "date": "2026-11-16"}
+{"company": "Hilandería Fueguina", "reason": "no owner quote found", "date": "2026-11-16"}
+{"company": "Arfa Ambalaj", "reason": "court-declared bankruptcy, no named decider", "date": "2026-11-16"}
