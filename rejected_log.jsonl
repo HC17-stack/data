@@ -63,3 +63,12 @@
 {"company": "Yogome", "country": "Mexico", "date": "2026-11-15", "reason": "Forbes México article dated 2018-10-05, event outside 3-year window"}
 {"company": "Textilcom", "country": "Argentina", "date": "2026-11-15", "reason": "El Ancasti 403/JS challenge, dropped"}
 {"company": "Chokhi Dhani Dubai", "country": "UAE", "date": "2026-11-15", "reason": "Khaleej Times 403, dropped"}
+{"company": "Textilana", "country": "Argentina", "date": "2026-11-15", "reason": "no named decider on fetched Canal26 page"}
+{"company": "Palacio de la Papa Frita", "country": "Argentina", "date": "2026-11-15", "reason": "Cronista page names no owner; no quote"}
+{"company": "Cemento Polpaico", "country": "Chile", "date": "2026-11-15", "reason": "DF article dated 2023-10-06, before 2023-11-09 cutoff"}
+{"company": "Blanco Nieve", "country": "Argentina", "date": "2026-11-15", "reason": "source 403"}
+{"company": "Senpres", "country": "Turkey", "date": "2026-11-15", "reason": "source evrensel 403"}
+{"company": "Guzeldag Tekstil", "country": "Turkey", "date": "2026-11-15", "reason": "source sozcu 403"}
+{"company": "Kizmet", "country": "UAE", "date": "2026-11-15", "reason": "article dated 2020"}
+{"company": "Opora Technologies", "country": "Israel", "date": "2026-11-15", "reason": "closure June 2023, outside window"}
+{"company": "Jalebi.io", "country": "UAE", "date": "2026-11-15", "reason": "fetched page has no named person quoted and no stated reason"}
