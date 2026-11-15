@@ -1,0 +1,15 @@
+{
+  "company": "Donocca SAS (Patio del Vea, San Juan)",
+  "country": "Argentina",
+  "sector": "Food service",
+  "sub_sector": "Supermarket food-court concession",
+  "size_band": "~20 employees (20 families lost income)",
+  "stage_or_date": "Feb 2026 (concession closed after Carnival holiday; article 2026-02-25)",
+  "source_url": "https://www.tiempodesanjuan.com/san-juan/bajo-la-persiana-el-historico-patio-comidas-del-vea-crisis-deudas-y-cuentas-embargadas-el-coctel-del-cierre-n424016",
+  "source_type": "news_article",
+  "the_problem": "Donocca SAS ran the food court of the Vea supermarket (Cencosud) in San Juan, Argentina, since the pandemic. A 2025 union inspection treated young workers hired under the national PIL programme as off-the-books staff, leading to a lawsuit and a payout of over 150 million pesos. Accounts were embargoed for months, three months of rent plus salaries and suppliers fell behind, and the 2024 and 2025 recessions cut revenue.",
+  "the_decision": "Concession holder Emanuel Uzair closed the food court for good in February 2026 after paying the lawsuit in instalments and clearing the debt with Cencosud, when Cencosud refused to renew the lease. His reason: 'Llega un punto que estábamos asfixiados económicamente y lo que hacíamos era sobrevivir'; he said the lawsuit cost over 150 million pesos and 'vino la recesión del 2024, la del 2025'.",
+  "the_outcome": "The food court, open for almost 30 years, closed permanently; 20 families lost their income and could not be relocated. Uzair says no debt remains with Cencosud ('No les quedamos debiendo un peso'). The venue was already being dismantled and a gym franchise is expected to take the space.",
+  "confidence_note": "Fetched 2026-11-15 with curl --compressed, HTTP 200, datePublished 2026-02-26T01:07Z (25 Feb 2026 local). Event Feb 2026 is within 3 years of 2026-11-09 and the article follows the event. Verbatim from page: '\"Estamos muy tristes. Llega un punto que estábamos asfixiados económicamente y lo que hacíamos era sobrevivir\", dijo a Tiempo de San Juan, Emanuel Uzair, quien tenía el alquiler del lugar y que, acorralado por las deudas, decidió cerrar el lugar.' and '...un juicio que terminó perjudicándonos y llevándonos a pagar una suma de más de 150 millones de pesos, aseguró Uzair' and 'El alquiler del espacio donde funcionaba el Patio del Vea se atrasó tres meses'. Dedup: ~/hdedup.sh \"Patio del Vea\" -> production matches: 0 pending on feed- branches: 0 rejected_log matches: 0 RESULT: NEW (Patio del Vea); ~/hdedup.sh \"Donocca\" -> production matches: 0 pending on feed- branches: 0 rejected_log matches: 0 RESULT: NEW (Donocca). Note ~/hdedup.sh \"Uzair\" returned DUPLICATE only because of an unrelated Pakistani fintech person (Uzair Mahmud, Elphinstone/Trikl), not this record.",
+  "event_fingerprint": "donocca-patio-del-vea-san-juan-argentina-closure-2026-02"
+}

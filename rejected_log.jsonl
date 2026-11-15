@@ -155,3 +155,7 @@
 {"company": "Linio", "reason": "Contxto Mar 2024 page has no named decider quote", "date": "2026-11-15"}
 {"company": "Soriana", "reason": "El Financiero Nov 2026: CFO quote describes consumer climate, does not attribute the 18-store closure decision or reason to him", "date": "2026-11-15"}
 {"company": "Will Der SA", "reason": "duplicate: already pending on this branch (will-der-sa.json)", "date": "2026-11-15"}
+{"company": "Divaflo", "reason": "El Economista 2026-08-04: concurso preventivo, no named person or quote in article", "date": "2026-11-15"}
+{"company": "Siderperu", "reason": "Forbes Peru 2026-09-02: SMV company statement only, no named decider or quote", "date": "2026-11-15"}
+{"company": "Ambev-Cympay", "reason": "already DUPLICATE in hdedup (Ambev); MercoPress 403", "date": "2026-11-15"}
+{"company": "Calcar", "reason": "Forbes Argentina 2026: cooperative closure, only named people are union reps; no decider quoted", "date": "2026-11-15"}
