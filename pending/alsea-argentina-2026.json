@@ -1,0 +1,15 @@
+{
+  "company": "Alsea",
+  "country": "Argentina",
+  "sector": "Restaurants",
+  "sub_sector": "Fast food / Burger chain",
+  "size_band": "107 restaurants in Argentina",
+  "stage_or_date": "2026-11-14",
+  "source_url": "https://www.cronista.com/mexico/finanzas-economia/alsea-acuerda-la-venta-de-burger-king-en-argentina-se-desprende-de-107-restaurantes/",
+  "source_type": "article",
+  "the_problem": "Alsea decided to sell its Burger King Argentina operation as part of strategy to divest non-strategic assets and optimize its portfolio.",
+  "the_decision": "Christian Gurría, director general de Alsea, celebrated a binding agreement to sell the Burger King operation in Argentina, as quoted: \"Alsea (…) ha celebrado un acuerdo vinculante para la venta de los restaurantes de Burger King en Argentina\".",
+  "the_outcome": "Sale of 107 Burger King restaurants in Argentina; Alsea will reorganize its international portfolio, having previously sold Archie's in Colombia (May 2026) and executed desinvestments related to TGI Fridays in Spain and Chile during 2025.",
+  "confidence_note": "FETCH: curl -sS -L --compressed -o /tmp/alesa.html -w '\\\\nHTTP:%{http_code}' 'https://www.cronista.com/mexico/finanzas-economia/alsea-acuerda-la-venta-de-burger-king-en-argentina-se-desprende-de-107-restaurantes/' 2>&1\nHTTP: 200\nARTICLE PUBLISH DATE: 2026-11-14 (after gate date 2023-11-09, math: 2026-11-14 >= 2023-11-09 ✓)\nPERSON QUOTED: Christian Gurría, director general de Alsea\nQUOTE: \"Alsea (…) ha celebrado un acuerdo vinculante para la venta de los restaurantes de Burger King en Argentina\"\nITEM: 107 Burger King restaurants in Argentina being sold\nSOURCE: El Cronista (cronista.com)\nITEM: Argentine subsidiary being divested\nITEM: Part of Alsea's international portfolio reorganization\nITEM: Previously sold Archie's in Colombia (May 2026), TGI Fridays Spain/Chile (2025)\n\nDEDUP: ~/hdedup.sh \"Alsea\"\nRESULT: NEW (Alsea) - no duplicates in production, pending, or rejected_log\n\nVERIFICATION:\n- Company name 'Alsea' found 6 times in page body ✓\n- Person name 'Christian Gurría' found 3 times in page body ✓\n- Article dated 2026-11-14 after gate date 2023-11-09 ✓\n- HTTP 200 confirmed ✓\n- source_url is exact fetched article URL ✓\n- No copy-paste between records ✓\n- No placeholder values ✓\n- No 'modeled from' or 'pattern based on' ✓",
+  "event_fingerprint": "alesa-burger-king-argentina-sale-20261114"
+}
