@@ -1,0 +1,15 @@
+{
+ "company": "Farmacias Dr. Ahorro (Energía y Vida de Argentina SRL)",
+ "country": "Argentina",
+ "sector": "Retail",
+ "sub_sector": "Generic-medicine pharmacy chain",
+ "size_band": "330 employees dismissed; 33 stores at closure (peak 47)",
+ "stage_or_date": "December 2025 - May 2026",
+ "source_url": "https://www.baenegocios.com/negocios/farmacias-dr-ahorro-pidio-su-propia-quiebra-y-dejo-sin-trabajo-a-330-trabajadores/",
+ "source_type": "news",
+ "the_problem": "After the late-2023 deregulation of medicine sales and a prolonged recession, the chain lost supplier credit, ran short of stock and owed wages, rent and severance; it had filed a concurso preventivo that it could no longer carry through.",
+ "the_decision": "Owner Xavier González Zirión (ex-PRI deputy in Mexico) closed 11 stores in Dec 2025, then all remaining 33 in early May 2026, and had his lawyers file for the company's own bankruptcy, saying through them: \"Este pedido de quiebra no es una derrota: es el acto final de responsabilidad\". The filing says the concurso 'ha dejado de ser una herramienta viable' because of deregulation (late 2023) and recession.",
+ "the_outcome": "330 workers dismissed (90+ in Dec 2025, 242 in May 2026) with no severance; chain had peaked at 47 pharmacies in 5 provinces; 75% of April wages unpaid.",
+ "confidence_note": "Fetched HTTP 200 on 2026-11-15 via curl --compressed. Page names Farmacias Dr. Ahorro and Xavier González Zirión. Verbatim: \"El empresario Xavier González Zirión envió a sus abogados a decir: 'Este pedido de quiebra no es una derrota: es el acto final de responsabilidad de quienes, pudiendo mirar hacia otro lado, eligieron dar la cara...'\" and \"como consecuencia del cambio de normativa impulsado por el PEN a finales del 2023 (desregula la comercialización de medicamentos) y del sostenido y prolongado proceso de recesión de la economía argentina, la Sociedad comenzó a transitar una severa crisis económica-financiera\". LIMITATION: the quote reaches the page through his lawyers and the reason is from the court filing, so it is attributed, not first-person. Dates: closures Dec 2025 and May 2026, article 26 May 2026, within 3 years of 2026-11-09 and after the event. Dedup: ~/hdedup.sh \"Dr. Ahorro\" -> production matches: 0 / pending on feed- branches: 0 / rejected_log matches: 0 / RESULT: NEW (Dr. Ahorro).",
+ "event_fingerprint": "dr-ahorro-argentina-quiebra-cierre-33-farmacias-2026-05"
+}
