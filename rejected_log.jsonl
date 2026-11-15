@@ -191,3 +191,10 @@
 {"company": "Fracción (Chile)", "reason": "Blog summary of reorganización judicial; no named person quoted, no stated reason from founder", "date": "2026-11-15"}
 {"company": "Cassbana (Egypt)", "reason": "CEO Haitham Nassar denies shutdown and says new round pending; no closure decision, Launch Base Africa 2024-07-08", "date": "2026-11-15"}
 {"company": "Oulad Zerrad (Morocco)", "reason": "Medias24 returned HTTP 403; dropped per fetch ethics", "date": "2026-11-15"}
+{"company": "Bicicletería Madrid (Argentina)", "reason": "Canal26 2026-03-20: owners unnamed, reason is reporter framing only; fails gate 1/2b", "date": "2026-11-15"}
+{"company": "Energy gym chain (Chile)", "reason": "24horas page returned HTTP 522; dedup also hit Energy Fitness in rejected_log", "date": "2026-11-15"}
+{"company": "Sir Hazır Giyim (Turkey)", "reason": "halktv.com.tr returned HTTP 403 (Cloudflare); dropped per fetch ethics", "date": "2026-11-15"}
+{"company": "Trima (Israel)", "reason": "Calcalist 2026-07-27: only company notice quoted, no named decider; Kibbutz Ma'abarot is not a person", "date": "2026-11-15"}
+{"company": "Dulce Neuquén (Argentina)", "reason": "noticiasnqn.com.ar returned HTTP 403; dropped per fetch ethics", "date": "2026-11-15"}
+{"company": "Pandanés (Argentina)", "reason": "Cronista page paywalled/unreadable body; dropped", "date": "2026-11-15"}
+{"company": "Sioen Tunisia", "reason": "Company did not respond; no named decider (BHRRC)", "date": "2026-11-15"}
