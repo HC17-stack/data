@@ -73,3 +73,8 @@
 {"company": "Opora Technologies", "country": "Israel", "date": "2026-11-15", "reason": "closure June 2023, outside window"}
 {"company": "Jalebi.io", "country": "UAE", "date": "2026-11-15", "reason": "fetched page has no named person quoted and no stated reason"}
 {"company": "MKR", "country": "Chile", "date": "2026-11-15", "reason": "fetched page quotes no Kishinevsky family member; only interventor and advisors named"}
+{"company": "Magnicharters", "country": "Mexico", "date": "2026-11-15", "reason": "fetched Cronica page quotes no owner/executive; only judge and síndico"}
+{"company": "Everfit", "country": "Colombia", "date": "2026-11-15", "reason": "only named person quoted is Supersociedades regulator Billy Escobar"}
+{"company": "Intradevco (Alicorp Ventanilla plant)", "country": "Peru", "date": "2026-11-15", "reason": "company statement only, no named person; article March 2025"}
+{"company": "Fábricas Nacionales de Cerveza (FNC)", "country": "Uruguay", "date": "2026-11-15", "reason": "El Observador and MercoPress pages returned 403; dropped without retry"}
+{"company": "SER Mekatronik", "country": "Turkey", "date": "2026-11-15", "reason": "evrensel.net page returned 403 (Cloudflare); dropped without retry"}
