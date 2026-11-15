@@ -107,3 +107,9 @@
 {"company": "Braskem Idesa", "reason": "no named executive quote fetched", "date": "2026-11-16"}
 {"company": "Equair", "reason": "event Sept 2023, before cutoff; company statement", "date": "2026-11-16"}
 {"company": "Kurtigo", "reason": "trustee-led; same as CoreTigo", "date": "2026-11-16"}
+{"company": "Alpek Polyester Argentina (Ecopek)", "reason": "company statement only, no named person quoted (Infobae fetched 200)", "date": "2026-11-15"}
+{"company": "Aires del Sur", "reason": "decision in court filing signed by president Ceretti, no quoted reason; company/court-driven", "date": "2026-11-15"}
+{"company": "Ekmekçioğlu", "reason": "no named person quoted; article dated 2025-11-10, before cutoff", "date": "2026-11-15"}
+{"company": "Kabzımal", "reason": "ntv page HTTP 403, dropped", "date": "2026-11-15"}
+{"company": "Belgroup", "reason": "no source fetched; liquidation by creditor-agreement breach, no named decider found", "date": "2026-11-15"}
+{"company": "Corporación Miyasato", "reason": "liquidation April 2023, before 2023-11-09 cutoff; no named decider", "date": "2026-11-15"}
