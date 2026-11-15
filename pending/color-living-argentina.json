@@ -1,0 +1,15 @@
+{
+ "company": "Color Living (Grupo Color)",
+ "country": "Argentina",
+ "sector": "Manufacturing",
+ "sub_sector": "Furniture (living sets)",
+ "size_band": "Mid-size (about 350 workers in Córdoba plus 50 in Pacheco before closure)",
+ "stage_or_date": "November 2025",
+ "source_url": "https://www.baenegocios.com/negocios/El-dueno-de-una-Pyme-industrial-conto-desesperado-por-que-tuvo-que-cerrar-una-planta-y-echar-a-40-trabajadores-20251204-0043.html",
+ "source_type": "news",
+ "the_problem": "Furniture maker Color Living saw sales fall about 50% when Milei took office, then fell further from mid-2025; it ran at a loss for three months and the Pacheco plant (Buenos Aires) lost 60% of production and sales according to the wood workers' union.",
+ "the_decision": "Founder and president Omar Polo Gardinelli closed the General Pacheco plant to concentrate production in Córdoba, telling the workforce in person with the union present. His stated reason: \"o paro una planta y cierro la más chica o me fundo y cierro todo\"; he added \"No hay crédito, lo poco que hay es carísimo\" and that banks charge 43%-55% to discount cheques while inflation is 30%.",
+ "the_outcome": "40 workers laid off at Pacheco (the plant of about 50 becomes a warehouse), with a promise to pay severance \"hasta el último peso\"; the Córdoba plant keeps about 350 workers and 100,000 units a year, but the company had worked three months at a loss.",
+ "confidence_note": "Fetched HTTP 200 via curl -sS -L --compressed on 2026-11-15. Page names Color Living and Omar Polo Gardinelli (the article spells the surname Giardelli once, Gardinelli in the quote section). Verbatim: \"No damos más: o paro una planta y cierro la más chica o me fundo y cierro todo.\" and \"El mercado está tan caído que estamos trabajando hace tres meses a pérdida\" and \"No hay crédito, lo poco que hay es carísimo\". Page dated Jueves, 4 de diciembre de 2025; closure announced 'el miércoles pasado' (about 26 Nov 2025), after-event publication, about 1 year before 2026-11-09 cutoff of 2023-11-09. Dedup: ~/hdedup.sh \"Color Living\" output: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (Color Living); ~/hdedup.sh \"Polo Gardinelli\" -> RESULT: NEW.",
+ "event_fingerprint": "color-living-argentina-pacheco-plant-closure-2025-11"
+}

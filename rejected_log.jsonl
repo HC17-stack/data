@@ -101,12 +101,12 @@
 {"company": "CapitalTech", "country": "Mexico", "date": "2026-11-15", "reason": "emprendedor.com 403, dropped"}
 {"company": "Blue Banana", "country": "UAE", "date": "2026-11-15", "reason": "khaleejtimes 403, dropped"}
 {"company": "Calzados Silvio / Sartore Trajes", "country": "Argentina", "date": "2026-11-15", "reason": "article dated 2018, outside window"}
-{"company": "Vibrantz", "reason": "no named company decider; union statements only", "date": "2026-11-16"}
-{"company": "CoreTigo", "reason": "decider is trustee/court; no founder quote", "date": "2026-11-16"}
-{"company": "Emilio Alal", "reason": "company statement only, no named person", "date": "2026-11-16"}
-{"company": "Braskem Idesa", "reason": "no named executive quote fetched", "date": "2026-11-16"}
-{"company": "Equair", "reason": "event Sept 2023, before cutoff; company statement", "date": "2026-11-16"}
-{"company": "Kurtigo", "reason": "trustee-led; same as CoreTigo", "date": "2026-11-16"}
+{"company": "Vibrantz", "reason": "no named company decider; union statements only", "date": "2026-11-15"}
+{"company": "CoreTigo", "reason": "decider is trustee/court; no founder quote", "date": "2026-11-15"}
+{"company": "Emilio Alal", "reason": "company statement only, no named person", "date": "2026-11-15"}
+{"company": "Braskem Idesa", "reason": "no named executive quote fetched", "date": "2026-11-15"}
+{"company": "Equair", "reason": "event Sept 2023, before cutoff; company statement", "date": "2026-11-15"}
+{"company": "Kurtigo", "reason": "trustee-led; same as CoreTigo", "date": "2026-11-15"}
 {"company": "Alpek Polyester Argentina (Ecopek)", "reason": "company statement only, no named person quoted (Infobae fetched 200)", "date": "2026-11-15"}
 {"company": "Aires del Sur", "reason": "decision in court filing signed by president Ceretti, no quoted reason; company/court-driven", "date": "2026-11-15"}
 {"company": "Ekmekçioğlu", "reason": "no named person quoted; article dated 2025-11-10, before cutoff", "date": "2026-11-15"}
@@ -123,10 +123,10 @@
 {"company": "XM Cyber", "reason": "fetched 200 but no named person quoted; acquisition-driven layoffs", "date": "2026-11-15"}
 {"company": "Dufour", "reason": "same event as Cocot (already rejected)", "date": "2026-11-15"}
 {"company": "Pudding Media", "reason": "old story, not within 3y window", "date": "2026-11-15"}
-{"company": "KartNGo", "reason": "Mubasher page 200 but no named decider and no reason beyond 'circumstances beyond control'", "date": "2026-11-16"}
-{"company": "Sueño Fueguino (Danubio)", "reason": "only the company lawyer quoted, owner Bogiatzian not quoted", "date": "2026-11-16"}
-{"company": "Hilandería Fueguina", "reason": "no owner quote found", "date": "2026-11-16"}
-{"company": "Arfa Ambalaj", "reason": "court-declared bankruptcy, no named decider", "date": "2026-11-16"}
+{"company": "KartNGo", "reason": "Mubasher page 200 but no named decider and no reason beyond 'circumstances beyond control'", "date": "2026-11-15"}
+{"company": "Sueño Fueguino (Danubio)", "reason": "only the company lawyer quoted, owner Bogiatzian not quoted", "date": "2026-11-15"}
+{"company": "Hilandería Fueguina", "reason": "no owner quote found", "date": "2026-11-15"}
+{"company": "Arfa Ambalaj", "reason": "court-declared bankruptcy, no named decider", "date": "2026-11-15"}
 {"company": "Industrias del Fuego", "reason": "source page 403, dropped", "date": "2026-11-15"}
 {"company": "Frigorífico Casa Blanca (Black Bamboo)", "reason": "company statement only, no named decider", "date": "2026-11-15"}
 {"company": "Linor SRL", "reason": "court-driven bankruptcy, no owner quote; c5n 403", "date": "2026-11-15"}
@@ -161,10 +161,10 @@
 {"company": "Calcar", "reason": "Forbes Argentina 2026: cooperative closure, only named people are union reps; no decider quoted", "date": "2026-11-15"}
 {"company": "Grupo Gloria Colombia (Algarra/Lechesán)", "reason": "El Colombiano 2026-03-16: company statement only; named person is a union leader, no decider quoted", "date": "2026-11-15"}
 {"company": "Texto Fabril", "reason": "Ambito/Canal12 2026: closure of Alta Gracia plant, no owner/decider quoted; only workers", "date": "2026-11-15"}
-{"company": "Nutrisa", "reason": "Expansion 2026-10-06: store closures explained only by company report; only named person is an independent analyst, no decider quoted", "date": "2026-11-16"}
-{"company": "TenureX", "reason": "Calcalist 06.02.23: closure Feb 2023, before the 2023-11-09 window", "date": "2026-11-16"}
-{"company": "Shakespeare and Co (UAE)", "reason": "Gulf News coverage of 35-branch closure: no owner/founder explanation quoted; only an unrelated commenter", "date": "2026-11-16"}
-{"company": "Record (Peru)", "reason": "Peru Retail 2026-01-31: manager Eduardo Varela already in production (2 matches); only paraphrase, no quote or measurable figure", "date": "2026-11-16"}
+{"company": "Nutrisa", "reason": "Expansion 2026-10-06: store closures explained only by company report; only named person is an independent analyst, no decider quoted", "date": "2026-11-15"}
+{"company": "TenureX", "reason": "Calcalist 06.02.23: closure Feb 2023, before the 2023-11-09 window", "date": "2026-11-15"}
+{"company": "Shakespeare and Co (UAE)", "reason": "Gulf News coverage of 35-branch closure: no owner/founder explanation quoted; only an unrelated commenter", "date": "2026-11-15"}
+{"company": "Record (Peru)", "reason": "Peru Retail 2026-01-31: manager Eduardo Varela already in production (2 matches); only paraphrase, no quote or measurable figure", "date": "2026-11-15"}
 {"company": "Fernando Mayer (Chile)", "reason": "DF article is dated 2025-07 (event 2025-06-25, outside 3y fine but) quotes only a court filing, no named person", "date": "2026-11-15"}
 {"company": "Edyce (Chile)", "reason": "BioBio 2026-07-24: only company statements, no named person quoted", "date": "2026-11-15"}
 {"company": "Landa Digital Printing (Israel)", "reason": "Globes dated 2025-06-12 (outside window not an issue but) company statement only, no named decider quoted", "date": "2026-11-15"}
@@ -198,3 +198,5 @@
 {"company": "Dulce Neuquén (Argentina)", "reason": "noticiasnqn.com.ar returned HTTP 403; dropped per fetch ethics", "date": "2026-11-15"}
 {"company": "Pandanés (Argentina)", "reason": "Cronista page paywalled/unreadable body; dropped", "date": "2026-11-15"}
 {"company": "Sioen Tunisia", "reason": "Company did not respond; no named decider (BHRRC)", "date": "2026-11-15"}
+{"company": "Santo Remedio (Chile)", "reason": "Owner Kabir Engel quoted only in pre-closure April article; July closure pages quote lawyers/bar statement, not him", "date": "2026-11-15"}
+{"company": "Trotamundos (Chile)", "reason": "No quoted owner reason with measurable outcome; mayor/producer statements only", "date": "2026-11-15"}
