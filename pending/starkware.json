@@ -1,0 +1,15 @@
+{
+ "company": "StarkWare",
+ "country": "Israel",
+ "sector": "Blockchain / Crypto infrastructure",
+ "sub_sector": "Ethereum layer-2 (Starknet) developer",
+ "size_band": "Venture-backed, once valued at $8B; headcount undisclosed",
+ "stage_or_date": "April 2026 (article dated Apr 13, 2026)",
+ "source_url": "https://protos.com/starkware-fires-staff-after-starknet-revenue-collapses-98",
+ "source_type": "news",
+ "the_problem": "Starknet's monthly on-chain revenue fell from a peak near $5.8M in November 2023 to about $100,000 in April 2026 (about $3,500/day vs $187,000/day); STRK token fell from $4.41 to $0.033, a 91% decline in market cap from March 2024, while StarkWare had raised over $260M and a $100M round at $8B valuation in May 2022.",
+ "the_decision": "CEO Eli Ben-Sasson sent an internal memo (posted on X) announcing layoffs and a split of StarkWare into two independent units (applications division under CPO Avihu Levy; Starknet development unit under Tom Brand). His reason: \"Very sadly, as part of this process, we are downsizing... Our new strategy requires that we move fast, and we're too big and too inefficient for that.\" He also conceded: \"Infrastructure alone does not win the game.\"",
+ "the_outcome": "Layoffs of undisclosed number of staff, company restructured into two units, COO Oren Katz resigned effective end of month; Starknet TVL about $241M vs Base about $4.3B; cumulative fees only $45M.",
+ "confidence_note": "Fetched HTTP 200 via curl --compressed on 2026-11-15. Page body contains StarkWare, Eli Ben-Sasson and verbatim: 'Very sadly, as part of this process, we are downsizing,' and 'Our new strategy requires that we move fast, and we're too big and too inefficient for that.' Dateline 'Apr 13' with page footer (c) 2026 and references to 2025 returns, so April 2026; about 7 months before 2026-11-09, inside 3-year window; article published same day as the announcement. hdedup output: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (StarkWare). Company founded in Israel in 2018 per article.",
+ "event_fingerprint": "starkware-israel-layoffs-restructuring-2026-04"
+}
