@@ -1,0 +1,15 @@
+{
+  "company": "Cicaré Helicópteros",
+  "country": "Argentina",
+  "sector": "Aerospace & Defense",
+  "sub_sector": "Light helicopter manufacturing",
+  "size_band": "16 employees (sworn declaration, Jan 2026)",
+  "stage_or_date": "Bankruptcy decreed 5 Dec 2025; converted to concurso preventivo May 2026 (reported 2026-05-14)",
+  "source_url": "https://www.lanacion.com.ar/economia/negocios/cicare-evito-la-quiebra-y-entro-en-concurso-preventivo-la-historica-fabricante-de-helicopteros-busca-nid14052026/",
+  "source_type": "news_article",
+  "the_problem": "Saladillo-based ultralight helicopter maker Cicaré fell into payment default: its Banco Credicoop debt grew from $9 million (Aug 2023) to $293 million (Jan 2026) out of more than $758 million in total loans, and Credicoop's bankruptcy petition led to a bankruptcy decree on 5 Dec 2025.",
+  "the_decision": "Company president Juan Manuel Cicaré filed to convert the bankruptcy into a concurso preventivo to renegotiate its debt instead of closing. His stated reason in the court filing: a 'desequilibrio financiero' caused by Covid-19 freezing its foreign expansion planned from late 2019, recession and high inflation, and 'el alto costo del dinero... Las tasas de interés son altamente positivas y desproporcionadas', plus pressure from lenders; he argued the international civil aviation market was reactivating and would let it find 'un nuevo punto de equilibrio'.",
+  "the_outcome": "Court (Juzgado Comercial N° 29) converted the bankruptcy to a concurso preventivo; declared liabilities $1,050 million vs assets $1,036 million, 16 employees, labor debt $25 million and social-charge debts totalling $241 million; creditor claims due 12 June 2026 and informative hearing set for 9 April 2027. Outcome of the restructuring is still open.",
+  "confidence_note": "Fetched 2026-11-16 with curl --compressed, HTTP 200; La Nacion (Laura Ponasso), datePublished 2026-05-14, after the Dec 2025 bankruptcy decree and May 2026 conversion; decision date within 3 years of 2026-11-09. Verbatim from page: 'En su presentación ante la justicia, Juan Manuel Cicaré, presidente de la firma, explicó que la empresa sufrió un \"desequilibrio financiero\" derivado de una combinación de factores' and '\"El alto costo del dinero con su persistencia nos ubica como uno de los países más destacados en esta desgraciada adversidad. Las tasas de interés son altamente positivas y desproporcionadas...\"'. Caveat: the quote comes from a court filing reported by the paper, not an interview. Dedup: ~/hdedup.sh \"Cicaré\" -> production matches: 0 pending on feed- branches: 0 rejected_log matches: 0 RESULT: NEW (Cicaré) ",
+  "event_fingerprint": "cicare-helicopteros-argentina-concurso-preventivo-2026-05"
+}
