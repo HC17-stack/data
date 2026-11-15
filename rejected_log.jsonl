@@ -170,3 +170,14 @@
 {"company": "Landa Digital Printing (Israel)", "reason": "Globes dated 2025-06-12 (outside window not an issue but) company statement only, no named decider quoted", "date": "2026-11-15"}
 {"company": "Grubshack / Tandoor Tina / Chokhi Dhani (UAE)", "reason": "dedup DUPLICATE; Gulf News/Khaleej pages returned 403, dropped", "date": "2026-11-15"}
 {"company": "Tok&Stok (Brazil)", "reason": "Exame 2026 page: store-closure/liquidation notice with no named executive quoted", "date": "2026-11-15"}
+{"company": "Coltejer (Colombia)", "reason": "Portafolio article dated 17 Jan 2023; event before 2023-11-09 cutoff; no named decider", "date": "2026-11-15"}
+{"company": "Signa Grain / Planet Pop (Colombia)", "reason": "Pulzo page returned 403, dropped", "date": "2026-11-15"}
+{"company": "Bar Lihuén (Chile)", "reason": "Owner Pablo Contreras quoted, but bar relocated into his own theatre: not a failure", "date": "2026-11-15"}
+{"company": "Alshaya Egypt (Egypt)", "reason": "Dated Jan 2024; company statement only, no named person", "date": "2026-11-15"}
+{"company": "Plasticaucho (Ecuador)", "reason": "Primicias May 2026 is a growth/operations profile, not a failure", "date": "2026-11-15"}
+{"company": "CardioKol (Israel)", "reason": "Calcalist 12 Jul 2026: insolvency filing by attorney, no founder/CEO quoted", "date": "2026-11-15"}
+{"company": "Librería Ateneo (Chile)", "reason": "Owner Juan Benavente closing for age/retirement, not a record under 2b; theclinic AMP 403", "date": "2026-11-15"}
+{"company": "Farmacias Ahumada (Chile)", "reason": "La Tercera article dated Nov 2018, outside 3-year window", "date": "2026-11-15"}
+{"company": "Movistar Chile / Millicom (Chile)", "reason": "Benítez quote is an outcome statement on acquisition integration cuts, no decision rationale; skipped", "date": "2026-11-15"}
+{"company": "Orta Anadolu Mensucat / Turkish concordat firms", "reason": "Company statements only, no named person", "date": "2026-11-15"}
+{"company": "Três Irmãos (Brazil)", "reason": "Court bankruptcy; NSC states company not reached for comment, no decider", "date": "2026-11-15"}
