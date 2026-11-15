@@ -1,0 +1,15 @@
+{
+ "company": "ArgenBTC",
+ "country": "Argentina",
+ "sector": "Fintech",
+ "sub_sector": "Crypto exchange",
+ "size_band": "Small (Rosario-based; staff reassigned to other Rosario firms)",
+ "stage_or_date": "October 2024",
+ "source_url": "https://www.iproup.com/economia-digital/50950-cierra-exchange-criptomonedas-argentina-retiro-fondos-motivos",
+ "source_type": "news",
+ "the_problem": "ArgenBTC, one of Argentina's first crypto exchanges (founded 2014), was squeezed out by the CNV's new regulation for virtual-asset providers, which asked for 140,000 UVA of net worth plus hard technical requirements, while international platforms were entering Argentina and adding competition for small exchanges.",
+ "the_decision": "Founder and CEO Gabriel Vago said: \"luego de varios meses de pensarlo, decidimos cerrar la compañía y elaboramos un plan lo más 'suave' posible de retiro de criptomonedas a los usuarios\". His reason: \"Es muy difícil para exchanges chicas cumplir con las nuevas exigencias de la CNV, como el requisito patrimonial\".",
+ "the_outcome": "Exchange wound down after 10+ years: withdrawals normal from 28 Oct 2024, buy/sell ended 11 Nov 2024, then withdrawal-only for at least 2 months; all employees reassigned to Rosario companies; DeFi and bill-payment features ended.",
+ "confidence_note": "Fetched HTTP 200 via curl --compressed on 2026-11-15. Page body names ArgenBTC and Gabriel Vago. Verbatim: \"En diálogo con iProUP, Gabriel Vago, CEO y fundador de ArgenBTC, confirmó que 'luego de varios meses de pensarlo, decidimos cerrar la compañía...'\" and \"Es muy difícil para exchanges chicas cumplir con las nuevas exigencias de la CNV, como el requisito patrimonial\". Page metadata article:published_time 2024-10-28, after the announced closure; 2024-10-28 is within 3 years of 2026-11-09 (about 2.0 years, cutoff 2023-11-09). Dedup: ~/hdedup.sh \"ArgenBTC\" output: production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (ArgenBTC) | ; also ~/hdedup.sh \"Gabriel Vago\" -> RESULT: NEW.",
+ "event_fingerprint": "argenbtc-argentina-crypto-exchange-closure-2024-10"
+}
