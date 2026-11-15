@@ -1,0 +1,15 @@
+{
+  "company": "Grupo Americar (Salazar Israel)",
+  "country": "Chile",
+  "sector": "Automotive retail",
+  "sub_sector": "New and used car dealership group",
+  "size_band": "~3,000 employees (3,389 in Aug 2024 to 2,973 in Jul 2025)",
+  "stage_or_date": "Nov 2024 - Jul 2025 (restructuring)",
+  "source_url": "https://www.latercera.com/pulso/noticia/el-mayor-concesionario-de-autos-de-chile-se-ajusta-y-reorganiza-frente-a-un-mercado-a-la-baja/",
+  "source_type": "news_article",
+  "the_problem": "Chile's new-car market fell from 426k units in 2022 to 313k in 2023 and 302k in 2024. Americar's group sales dropped from 78k to 67k units; Automotriz Cordillera went from a CLP 23,963m profit in 2022 to a CLP 5,785m loss by Oct 2024, and 54 of 122 new-car branches had negative Ebitda in June 2024.",
+  "the_decision": "General manager Mauricio Fuenzalida, who took over the group in late 2024, ran a restructuring: closing leased branches, renegotiating rents and cutting staff. His reason: '¿Por qué tuvimos que hacer un ajuste tal vez un poco más grande que lo que teníamos pensado en 2024? Porque el mercado en 2025 no es mejor que el de 2024', calling it 'un deber hacer una reestructuración para ajustarse a la realidad del mercado'.",
+  "the_outcome": "24 branches closed (all third-party-owned sites) since Nov 2024; headcount cut from 3,389 (Aug 2024) to 2,973, i.e. more than 400 dismissed; the group still runs 108 new-car branches. The market contraction was expected to last at least to 2026.",
+  "confidence_note": "Fetched 2026-11-16 with curl --compressed, HTTP 200; article dated 17 Jul 2025 (La Tercera Pulso), after the Nov 2024-2025 restructuring; decision within 3 years of 2026-11-09 (Nov 2024 > 2023-11-09). Verbatim from page: '“Somos una empresa que se está reestructurando, en una industria que está viviendo una caída relevante...”, dice Fuenzalida'; '“¿Por qué tuvimos que hacer un ajuste tal vez un poco más grande que lo que teníamos pensado en 2024? Porque el mercado en 2025 no es mejor que el de 2024”'; 'Fuenzalida dice que la dotación actual asciende a 2.973 trabajadores. Es decir, el grupo ha despedido a más de 400 personas.' and 'han cerrado 24 ubicaciones'. Dedup: ~/hdedup.sh \"Americar\" -> production matches: 0 | pending on feed- branches: 0 | rejected_log matches: 0 | RESULT: NEW (Americar)",
+  "event_fingerprint": "americar-chile-restructuring-layoffs-2025-07"
+}
