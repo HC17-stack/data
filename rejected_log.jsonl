@@ -101,3 +101,9 @@
 {"company": "CapitalTech", "country": "Mexico", "date": "2026-11-15", "reason": "emprendedor.com 403, dropped"}
 {"company": "Blue Banana", "country": "UAE", "date": "2026-11-15", "reason": "khaleejtimes 403, dropped"}
 {"company": "Calzados Silvio / Sartore Trajes", "country": "Argentina", "date": "2026-11-15", "reason": "article dated 2018, outside window"}
+{"company": "Vibrantz", "reason": "no named company decider; union statements only", "date": "2026-11-16"}
+{"company": "CoreTigo", "reason": "decider is trustee/court; no founder quote", "date": "2026-11-16"}
+{"company": "Emilio Alal", "reason": "company statement only, no named person", "date": "2026-11-16"}
+{"company": "Braskem Idesa", "reason": "no named executive quote fetched", "date": "2026-11-16"}
+{"company": "Equair", "reason": "event Sept 2023, before cutoff; company statement", "date": "2026-11-16"}
+{"company": "Kurtigo", "reason": "trustee-led; same as CoreTigo", "date": "2026-11-16"}
