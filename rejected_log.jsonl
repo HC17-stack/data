@@ -81,3 +81,9 @@
 {"company": "Unifood (Pollo Stop, Pedro Juan & Diego)", "country": "Chile", "date": "2026-11-15", "reason": "24horas page has only company statements, no named person"}
 {"company": "Calzados Q'Guay", "country": "Chile", "date": "2026-11-15", "reason": "owner Zaúl Méndez named with reason but no measurable figure; also reopened"}
 {"company": "Believer Meats", "country": "Israel", "date": "2026-11-15", "reason": "10 production matches for 'Believer'; page quotes only an HR head's post, decision not credited to a named decider"}
+{"company": "Viamo (Lannot S.A.)", "country": "Argentina", "date": "2026-11-15", "reason": "BAE Negocios page (HTTP 200) names founders/CEO but quotes none; decision not attributed to a quoted person"}
+{"company": "Whirlpool Supsa (Apodaca)", "country": "Mexico", "date": "2026-11-15", "reason": "Expansión page (HTTP 200) has only company/SEC statement, no named decider"}
+{"company": "VU Manufacturing", "country": "Mexico", "date": "2026-11-15", "reason": "Cluster Industrial page no named person; closure Oct 2023, before 2023-11-09 cutoff"}
+{"company": "Gomantak Dubai", "country": "UAE", "date": "2026-11-15", "reason": "Curlytales page: no named person, reason is vague personal priorities"}
+{"company": "Barem", "country": "Turkey", "date": "2026-11-15", "reason": "intellinews 403, dropped"}
+{"company": "Blaban", "country": "Egypt", "date": "2026-11-15", "reason": "Khaleej Times 403, dropped"}
